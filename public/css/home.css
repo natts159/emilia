@@ -1,0 +1,37 @@
+.home{
+    background-image: url(/images/emilia-home.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: right 75%;
+}
+
+.home header{
+    margin-left: 40px ;
+}
+
+.home header nav li{
+    line-height: 30px;
+}
+
+.home header nav ul li a{
+    text-transform: uppercase;
+    color: gray;
+}
+.home header a{
+    color: black;
+}
+
+.home h2{
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 40px;
+    line-height: 40px;
+    margin-top:100px ;
+    margin-bottom: 100px;
+}
+
+.home h1{
+    background-color: rgba(255, 255, 255, 0.4);
+}

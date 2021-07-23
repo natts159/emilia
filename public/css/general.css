@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&family=Work+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans';
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
+ h1{
+    font-family:'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 78px;
+    font-weight: 700;
+}
+ 
+/*es una función que sirve para usarlo en varias paginas sin necesidad de acordarse 100% el contenido */
+:root{
+    --colorVerde : #44a391;
+    --colorVerdeOscuro:#91b314 ;
+}
