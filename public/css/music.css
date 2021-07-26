@@ -18,10 +18,15 @@
 
 }
 
+.music main section h3{
+    color: black;
+}
+
 /*se pueden poner varios elementos a cambiar separando por comas*/
 .music ul li a, .music main a{
     color: var(--colorVerdeOscuro);
 }
+
 
 .music img{
     width: 640px;
