@@ -1,8 +1,8 @@
 .about{
     background-image: url(/images/emilia-about.jpg);
-    background-size: 72%;
+    background-size: 75%;
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: right bottom;
 }
 
 .about header nav{
