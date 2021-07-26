@@ -1,0 +1,11 @@
+.contact h4{
+    color: var(--colorVerde);
+}
+
+.contact p{
+    font-weight: 400;
+}
+
+.contact span{
+    color: var(--colorVerdeOscuro);
+}
