@@ -5,35 +5,6 @@
     background-position: right top;
 }
 
-.about header nav{
-    text-align:right ;
-}
-.about header nav ul{
-    background-color: rgba(255, 255, 255, 0.5);
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 5px;
-}
-
-.about header nav li{
-    display: inline;
-    border-left: 1px solid black; /*ancho densidad color*/
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
-.about header nav ul li:last-child{/* afecta a la ultima parte*/
-    border-right: 1px solid black;
-}
-
-.about header nav ul li a{
-    color: black;
-    text-transform: uppercase;
-}
-
-.about header nav a{
-    color: black;
-}
 
 .about section{
     margin-left: 30px;
