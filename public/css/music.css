@@ -6,8 +6,7 @@
     background-image: url(/images/emilia-music-top.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    height: 100px;
-    padding-top: 30px;
+ 
 }
 
 .music main{
@@ -22,13 +21,6 @@
 /*se pueden poner varios elementos a cambiar separando por comas*/
 .music ul li a, .music main a{
     color: var(--colorVerdeOscuro);
-}
-
-
-.music h3{
-    font-family: 'Raleway' ;
-    text-transform: uppercase;
-    font-size: 24px;
 }
 
 .music img{

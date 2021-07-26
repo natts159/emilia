@@ -1,3 +1,8 @@
+.header-horizontal{
+    height: 100px;
+    padding-top: 30px;
+}
+
 .header-horizontal nav{
     text-align:right ;
 }
